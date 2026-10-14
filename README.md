@@ -1,16 +1,68 @@
-## Hi there 👋
+Hi, I'm Rashi 👋
+
+🎓 BCA Artificial Intelligence Student — 2nd Year
+📍 Ambala Cantt, Haryana, India
 
 
-**Rashii242/Rashii242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate and motivated BCA AI student interested in programming, software development, and new technologies. I'm learning Python and other programming languages to build a strong foundation for my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+🌱 Currently learning: Python and programming fundamentals
+
+🎯 Career goal: Become a skilled Python Developer
+
+💡 Interested in: Software development and problem-solving
+
+📚 Education: BCA (Artificial Intelligence), Gandhi Memorial National College, Ambala Cantt
+
+🏫 Class 12: 85%
+
+
+🛠️ Technical Skills
+
+
+C Programming
+
+C++
+
+Python
+
+SQL
+
+HTML
+
+
+💪 Strengths
+
+
+Quick learner
+
+Hardworking
+
+Problem-solving
+
+Willingness to learn
+
+
+🌐 Languages
+
+
+Hindi
+
+English
+
+
+📫 Connect With Me
+
+
+GitHub: Your GitHub Profile
+
+
+
+✨ Let's build something amazing! 💙
+
+
 
